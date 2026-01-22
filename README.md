@@ -1,16 +1,18 @@
-## Hi there 👋
+# Aghiles Hadbi
 
-<!--
-**hadbi-aghiles/hadbi-aghiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning enthusiast focused on building practical projects with Python.
+Interested in data, algorithms, and intelligent systems.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Deep Learning
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Build AI and ML projects
+- Experiment with models and datasets
+- Learn by creating and improving projects
+
+## Contact
+GitHub: https://github.com/hadbi-aghiles
