@@ -37,14 +37,13 @@
 ## 🛠️ <strong>Tech Stack</strong>
 
 <div align="center">
-  <p>💻 <strong>🚀 Programming & ML</strong></p>
+  <p><strong>🚀 Programming & ML</strong></p>
   <img
-    src="https://skillicons.dev/icons?i=python,c++,sql"
+    src="https://skillicons.dev/icons?i=python,cpp,sql"
     width="400"
-    alt="Programming Languages"
+    alt="Programming & ML Icons"
   />
 </div>
-
 
 
 
