@@ -103,8 +103,8 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadbi-aghiles&theme=radical" />
- </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadbi-aghiles&theme=radical&border=6d9dd6&background=0d1117&ring=5865f2&fire=5865f2&currStreakNum=5865f2&sideNums=5865f2&currStreakLabel=5865f2&sideLabels=5865f2&dates=5865f2" />
+</div>
  
 <div align="center">
   <img
