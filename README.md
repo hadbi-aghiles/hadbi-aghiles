@@ -2,7 +2,7 @@
 
 <h1>
   👋 Hi, I'm <span style="color: #FFCB05">Aghiles</span>! 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" height="80" style="vertical-align: middle; margin-left: 15px;">
+  <img src="https://github.com/Rayane0001/Rayane0001/blob/main/pikachu_waving.gif)" width="80" height="80" style="vertical-align: middle; margin-left: 15px;">
 </h1>
 
 
