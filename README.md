@@ -21,10 +21,10 @@
 
 <hr>
 
-## What I do
-- Build AI and ML projects
-- Experiment with models and datasets
-- Learn by creating and improving projects
+## 🛠️What I do
+-Develop and ship AI-powered applications
+-Experiment with models, data, and architectures
+-Continuously learn by building, refining, and scaling projects
 
 
 
