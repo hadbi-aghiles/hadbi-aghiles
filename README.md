@@ -32,12 +32,9 @@
 
 ## 📊 **GitHub Stats**
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hadbi-aghiles&theme=radical"
-    alt="GitHub Streak Stats"
-  />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hadbi-aghiles00&show_icons=true&theme=radical" alt="Stats" />
+</div>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadbi-aghiles&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
