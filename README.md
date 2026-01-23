@@ -37,9 +37,9 @@
 ## 🛠️ <strong>Tech Stack</strong>
 
 <div align="center">
-  <p>💻 <strong>Languages</strong></p>
+  <p>💻 <strong>🚀 Programming & ML</strong></p>
   <img
-    src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,c,php,html,css,haskell"
+    src="https://skillicons.dev/icons?i=python,c++,sql"
     width="400"
     alt="Programming Languages"
   />
