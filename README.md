@@ -37,7 +37,7 @@
 ## 🛠️ <strong>Tech Stack</strong>
 
 <div align="center">
-  <p><strong>💻 Languages</strong></p>
+  <h2>💻 Languages</h2>
   <img
     src="https://camo.githubusercontent.com/bfdc61e0e2f3981142494e294bf86cfefd345c53deeecb77fd21d5078084dd4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c6a6176612c6b6f746c696e2c6a732c74732c632c7068702c68746d6c2c6373732c6861736b656c6c"
     width="800"
@@ -46,19 +46,19 @@
 </div>
 
 <div align="center">
-  <p><strong>🚀 Frameworks & Libraries</strong></p>
+  <h2>>🚀 Frameworks & Libraries</h2>
   <img
     src="https://camo.githubusercontent.com/9bf2819138348dd29a31d185cf237db88fc162380dcdadb575baba35f04d721d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c7376656c74652c616e67756c61722c6c61726176656c2c666c61736b2c666173746170692c6e6f64656a732c7461696c77696e64"
-    width="500"
+    width="640"
     alt="Programming & ML Icons"
   />
 </div>
 
 <div align="center">
-  <p><strong>🗄️ Databases</strong></p>
+ <h2>🗄️ Databases</h2>
   <img
     src="https://camo.githubusercontent.com/43cafca4a1544dfaf92f3682cd19de3aabba04db9b2a180fbc33a92cecbad982/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573716c2c6d7973716c2c73716c6974652c66697265626173652c7375706162617365"
-    width="200"
+    width="400"
     alt="Programming & ML Icons"
   />
 </div>
