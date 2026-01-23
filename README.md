@@ -51,6 +51,14 @@
     alt="Frameworks & Libraries Icons"
   />
 
+  
+<div align="center">
+  <h2>🧬 Machine Learning / Deep Learning</h2>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,xgboost,opencv" />
+</div>
+
+
+
   <h2>🗄️ Databases</h2>
   <img
     src="https://camo.githubusercontent.com/43cafca4a1544dfaf92f3682cd19de3aabba04db9b2a180fbc33a92cecbad982/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573716c2c6d7973716c2c73716c6974652c66697265626173652c7375706162617365"
