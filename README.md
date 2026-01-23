@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" height="80" style="vertical-align: middle; margin-left: 15px;">
 </h1>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=hadbi-aghiles.hadbi-aghiles)
 
 </div>
 
