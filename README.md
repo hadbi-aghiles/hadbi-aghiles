@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aghiles Hadbi</h1>
+<h1 align="center">👋 Hi, I'm Aghiles</h1>
 
 <h3 align="center">
   <strong>✨ Data Scientist | Generative AI & LLM Specialist ✨</strong>
