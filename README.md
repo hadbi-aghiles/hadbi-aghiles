@@ -2,7 +2,7 @@
 
 <h1>
   👋 Hi, I'm <span style="color: #FFCB05">Aghiles</span>! 
-  <img src="https://github.com/hadbi-aghiles/hadbi-aghiles/blob/main/0b987bc1ba56d0d47a1ed5aad53ff91d.gif" width="80" height="80" style="vertical-align: middle; margin-left: 15px;">
+  <img src="https://github.com/hadbi-aghiles/hadbi-aghiles/blob/main/0b987bc1ba56d0d47a1ed5aad53ff91d.gif" width="100" height="100" style="vertical-align: middle; margin-left: 15px;">
 </h1>
 
 
