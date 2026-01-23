@@ -39,7 +39,7 @@
 <div align="center">
   <p><strong>🚀 Programming & ML</strong></p>
   <img
-    src="https://skillicons.dev/icons?i=python,cpp,sql"
+    src="https://skillicons.dev/icons?i=python,cpp"
     width="400"
     alt="Programming & ML Icons"
   />
@@ -76,7 +76,12 @@
 
 
 
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&animation=twinkling"
+    alt="Thanks for visiting"
+  />
+</p>
 
 ## Contact
 GitHub: https://github.com/hadbi-aghiles
