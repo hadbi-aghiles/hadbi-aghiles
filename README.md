@@ -9,6 +9,7 @@
 
 </p>
 
+<hr>
 
 # 💫 About Me
 
@@ -18,6 +19,7 @@
 📚 Currently diving deeper into RAG architectures, LLM fine-tuning techniques, and agentic AI workflows.  
 🎯 I love transforming ideas into real AI apps using Streamlit, FastAPI & cloud platforms
 
+<hr>
 
 ## What I do
 - Build AI and ML projects
