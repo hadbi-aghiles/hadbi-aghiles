@@ -37,9 +37,9 @@
 ## 🛠️ <strong>Tech Stack</strong>
 
 <div align="center">
-  <p><strong>🚀 Programming & ML</strong></p>
+  <p><strong>💻 Languages</strong></p>
   <img
-    src="https://skillicons.dev/icons?i=python,cpp"
+    src="https://camo.githubusercontent.com/bfdc61e0e2f3981142494e294bf86cfefd345c53deeecb77fd21d5078084dd4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c6a6176612c6b6f746c696e2c6a732c74732c632c7068702c68746d6c2c6373732c6861736b656c6c"
     width="400"
     alt="Programming & ML Icons"
   />
