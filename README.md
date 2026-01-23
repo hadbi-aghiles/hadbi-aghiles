@@ -33,7 +33,10 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hadbi-aghiles&show_icons=true&theme=radical" alt="Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hadbi-aghiles&show_icons=true&theme=radical&hide_rank=true"
+    alt="GitHub Stats"
+  />
 </div>
 
 <p align="center">
