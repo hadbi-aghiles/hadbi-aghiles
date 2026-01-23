@@ -34,9 +34,11 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TONUSERNAME&theme=radical" alt="streak"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aghileshadbi&theme=radical" 
+    alt="GitHub streak stats"
+  />
 </p>
-
 
 
 <p align="center">
