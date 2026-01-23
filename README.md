@@ -1,7 +1,7 @@
-# Aghiles Hadbi
+👋 Hi, I'm [Votre Nom]
+✨ Data Scientist | Generative AI & LLM Specialist ✨
 
-AI & Machine Learning enthusiast focused on building practical projects with Python.
-Interested in data, algorithms, and intelligent systems.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1AF7FD&center=true&vCenter=true&width=550&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Generative+AI+%7C+LLMs+%7C+RAG+Systems;Building+AI+Apps+%26+End-to-End+Pipelines;Always+Learning+New+Things!)](https://github.com/DataScientist00)
 
 
 
