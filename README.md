@@ -1,5 +1,14 @@
-<h1 align="center">👋 Hi, I'm Aghiles!</h1>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" height="200" />
+<div align="center">
+
+<h1>
+  👋 Hi, I'm <span style="color: #FFCB05">Aghiles</span>! 
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" height="80" style="vertical-align: middle; margin-left: 15px;">
+</h1>
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=hadbi-aghiles.hadbi-aghiles)
+
+</div>
+
 <h3 align="center">
   <strong>✨ Data Scientist | Generative AI & LLM Specialist ✨</strong>
 </h3>
