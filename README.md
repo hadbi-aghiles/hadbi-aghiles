@@ -22,9 +22,9 @@
 <hr>
 
 ## 🛠️What I do
--Develop and ship AI-powered applications
--Experiment with models, data, and architectures
--Continuously learn by building, refining, and scaling projects
+- Develop and ship AI-powered applications
+- Experiment with models, data, and architectures
+- Continuously learn by building, refining, and scaling projects
 
 
 
