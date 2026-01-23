@@ -39,6 +39,16 @@
   />
 </div>
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadbi-aghiles&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+</div>
+
+
+
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadbi-aghiles&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
 </p>
