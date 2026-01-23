@@ -45,12 +45,12 @@
 
 
 
-  <h2>>🚀 Frameworks & Libraries</h2>
+  <h2>🚀 Frameworks & Libraries</h2>
   <img
     src="https://camo.githubusercontent.com/9bf2819138348dd29a31d185cf237db88fc162380dcdadb575baba35f04d721d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c7376656c74652c616e67756c61722c6c61726176656c2c666c61736b2c666173746170692c6e6f64656a732c7461696c77696e64"
     width="640"
     alt="Programming & ML Icons"
-  />
+ 
 
 
 
