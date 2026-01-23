@@ -103,9 +103,11 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadbi-aghiles&theme=radical&border=6d9dd6&background=0d1117&ring=5865f2&fire=5865f2&currStreakNum=5865f2&sideNums=5865f2&currStreakLabel=5865f2&sideLabels=5865f2&dates=5865f2" />
+<img src="https://github-readme-stats.vercel.app/api?username=hadbi-aghiles&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadbi-aghiles&layout=compact&theme=radical&hide_border=true" width="42%"/>
 </div>
- 
+
+
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadbi-aghiles&layout=compact&theme=radical"
