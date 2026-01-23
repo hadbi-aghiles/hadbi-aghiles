@@ -103,6 +103,10 @@
 </div>
 
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadbi-aghiles&theme=radical" />
+ </div>
+ 
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadbi-aghiles&layout=compact&theme=radical"
     alt="Top Languages"
