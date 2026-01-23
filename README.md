@@ -102,10 +102,6 @@
   />
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hadbi-aghiles&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadbi-aghiles&layout=compact&theme=radical&hide_border=true" width="42%"/>
-</div>
 
 
 <div align="center">
