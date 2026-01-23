@@ -6,20 +6,13 @@ Interested in data, algorithms, and intelligent systems.
 
 
 
-## 💫About Me
-<div align="center">
+# 💫 About Me
 
-**Data Scientist | Generative AI & LLM Specialist**  
-**Building AI Apps & End-to-End Pipelines**
-
-</div>
-
-<div align="left">
-• Building end-to-end ML systems - models - evaluation - deployment  
-• Passionate about generative RAG architectures, LMM fine-tuning techniques, modern ML agentic workflows  
-• Love transforming ideas into AI apps using Streamlit & cloud platforms  
-
-</div>
+🚀 Data Scientist focused on Deep Learning, NLP, and LLM Fine-Tuning  
+🧩 I build end-to-end ML systems: data → model → evaluation → deployment  
+🧠 Passionate about Generative AI, RAG architectures, vector databases & modern LLM tooling  
+📚 Currently diving deeper into RAG architectures, LLM fine-tuning techniques, and agentic AI workflows.  
+🎯 I love transforming ideas into real AI apps using Streamlit, FastAPI & cloud platforms
 
 
 ## What I do
