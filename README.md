@@ -32,7 +32,7 @@
 - Develop and ship AI-powered applications
 - Experiment with models, data, and architectures
 - Continuously learn by building, refining, and scaling projects
-<hr>
+
 ## 🛠️ <strong>Tech Stack <img src="https://github.com/hadbi-aghiles/hadbi-aghiles/blob/main/skills.gif" width="100" height="100" style="margin-left: 15px;"></strong>
 
 <div align="center">
